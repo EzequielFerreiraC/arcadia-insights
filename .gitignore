@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+venv/
+env/
+.venv
+
+# Node
+node_modules/
+.next/
+dist/
+
+# Environment
+.env
+.env.local
+
+# Data
+m_data/bronze/
+m_data/silver/
+m_data/gold/
+*.csv
+*.parquet
+
+# Docker
+*.log
+h_airflow/logs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
