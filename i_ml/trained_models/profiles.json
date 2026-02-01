@@ -1,0 +1,46 @@
+[
+  {
+    "name": "Empático",
+    "description": "Prioriza pessoas e relações acima do resultado prático.",
+    "players": 113,
+    "occurrence": 42.5,
+    "typical_choices": [
+      "Assinar a petição da Kate",
+      "Salvar Kate",
+      "Confortar Victoria"
+    ]
+  },
+  {
+    "name": "Diplomático",
+    "description": "Evita conflito e negocia para manter o equilíbrio.",
+    "players": 82,
+    "occurrence": 30.8,
+    "typical_choices": [
+      "Assinar a petição da Kate",
+      "Ignorar",
+      "Salvar Kate"
+    ]
+  },
+  {
+    "name": "Utilitarista",
+    "description": "Busca o maior benefício coletivo, mesmo com custo pessoal.",
+    "players": 49,
+    "occurrence": 18.4,
+    "typical_choices": [
+      "Assinar a petição da Kate",
+      "Não salvar",
+      "Não acusar"
+    ]
+  },
+  {
+    "name": "Impulsivo",
+    "description": "Decide rápido, guiado por emoção e instinto do momento.",
+    "players": 22,
+    "occurrence": 8.3,
+    "typical_choices": [
+      "Não assinar",
+      "Salvar Kate",
+      "Não acusar"
+    ]
+  }
+]
