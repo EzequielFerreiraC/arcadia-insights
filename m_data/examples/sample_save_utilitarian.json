@@ -1,0 +1,15 @@
+{
+  "player": { "country": "US", "platform": "PlayStation", "game_version": "1.0" },
+  "choices": [
+    { "episode": 1, "chapter": 1, "choice_id": "ep1_report_nathan", "choice_text": "Reportar Nathan ao diretor", "option_selected": "reportar", "timestamp_in_game": 640 },
+    { "episode": 1, "chapter": 2, "choice_id": "ep1_lisa_plant", "choice_text": "Regar a planta da Lisa", "option_selected": "nao_regar", "timestamp_in_game": 1500 },
+    { "episode": 1, "chapter": 3, "choice_id": "ep1_kate_petition", "choice_text": "Assinar a petição da Kate", "option_selected": "assinar", "timestamp_in_game": 2700 },
+    { "episode": 2, "chapter": 1, "choice_id": "ep2_save_kate", "choice_text": "Salvar Kate do telhado", "option_selected": "nao_salvar", "timestamp_in_game": 4300 },
+    { "episode": 2, "chapter": 2, "choice_id": "ep2_help_alyssa", "choice_text": "Ajudar Alyssa", "option_selected": "ignorar", "timestamp_in_game": 5200 },
+    { "episode": 3, "chapter": 1, "choice_id": "ep3_trust_chloe", "choice_text": "Confiar em Chloe", "option_selected": "nao_confiar", "timestamp_in_game": 6900 },
+    { "episode": 3, "chapter": 2, "choice_id": "ep3_blame_pool", "choice_text": "Encobrir o desastre da piscina", "option_selected": "encobrir", "timestamp_in_game": 7700 },
+    { "episode": 4, "chapter": 1, "choice_id": "ep4_accuse_nathan", "choice_text": "Acusar Nathan Prescott", "option_selected": "nao_acusar", "timestamp_in_game": 9300 },
+    { "episode": 4, "chapter": 2, "choice_id": "ep4_comfort_victoria", "choice_text": "Confortar Victoria", "option_selected": "ignorar", "timestamp_in_game": 10000 },
+    { "episode": 5, "chapter": 1, "choice_id": "ep5_final", "choice_text": "Decisão final no farol", "option_selected": "sacrificar_chloe", "timestamp_in_game": 11900 }
+  ]
+}
