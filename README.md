@@ -332,13 +332,3 @@ netstat -ano | findstr :8000
 ## License
 
 MIT License - see [LICENSE](LICENSE) for details.
-
----
-
-## Author
-
-**Eduardo Cardoso**
-
-- LinkedIn: [your-profile]
-- Portfolio: [your-site]
-- Email: [your-email]
